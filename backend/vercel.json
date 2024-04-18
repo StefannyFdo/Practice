@@ -13,6 +13,7 @@
       }
     ],
     "env": {
-      "ATLAS_URI": "mongodb+srv://steffipachake:1234@cluster0.oxytwjf.mongodb.net/Practice"
+      "ATLAS_URI": "mongodb+srv://steffipachake:1234@cluster0.oxytwjf.mongodb.net/Practice",
+      "CI" : false
     }
   }
